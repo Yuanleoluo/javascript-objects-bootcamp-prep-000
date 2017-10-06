@@ -1,1 +1,1 @@
-var playlist = {yearsnyears: 'king', hasley: 'americano', macholmore: 'samelove'}
+var playlist = {yearsnyears: "king", hasley: "americano", macholmore: "samelove"}
